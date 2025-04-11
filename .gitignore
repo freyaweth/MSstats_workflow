@@ -8,6 +8,8 @@ TMT_output_subgroups/*
 TMT_phos_output_subgroups/*
 unique_peptides_not_weighted/*
 *.log
+*.bigdata
+big_data_folder/*
 
 # All input
 input/*
